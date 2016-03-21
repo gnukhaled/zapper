@@ -3,8 +3,7 @@
 # Description: A tool to debug the Data Domain Filesystem
 # Parameters : See the Usage() subroutine
 # Returns    : 0 on Success, 1 on Error.
-# Author     : Khaled Ahmed: khaled.ahmed@emc.com (Data Domain Team) 
-# Author     : Ahmed Fekry: ahmed.fekry@emc.com (Data Domain Team) 
+# Author     : Khaled Ahmed: khaled.gnu@gmail.com 
 # License    : GPL <http://www.gnu.org/licenses/gpl.html>
 #############################################################################
 
